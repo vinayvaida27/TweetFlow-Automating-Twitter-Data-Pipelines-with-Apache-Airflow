@@ -28,8 +28,6 @@ Analysis scripts utilizing pandas can be executed to derive insights from the tw
 Contributing:
 Contributions to the project are welcome! Feel free to fork the repository, make improvements, and submit pull requests. Bug reports, feature requests, and feedback are also appreciated.
 
-License:
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgments:
 Special thanks to the Apache Airflow, Tweepy, and pandas communities for their invaluable contributions to open-source software.
