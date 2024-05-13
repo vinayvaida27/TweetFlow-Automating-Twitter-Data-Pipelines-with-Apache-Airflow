@@ -14,7 +14,7 @@ TweetFlow leverages Apache Airflow to automate the extraction, processing, and a
 1. **Install Requirements**:
    - Ensure Apache Airflow and the required Python libraries (Tweepy, pandas) are installed on your system or AWS cloud instance.
 2. **Clone the Repository**:
-   - `git clone [repository-url]` - Clone this repository to your local machine or cloud instance.
+   - `git clone [[repository-url](https://github.com/vinayvaida27/TweetFlow-Automating-Twitter-Data-Pipelines-with-Apache-Airflow/tree/main)]` - Clone this repository to your local machine or cloud instance.
 3. **Configure Apache Airflow**:
    - Set up Apache Airflow on AWS or your preferred cloud service. Detailed instructions can be found in the official [Airflow Documentation](https://airflow.apache.org/docs/).
 4. **DAG Setup**:
